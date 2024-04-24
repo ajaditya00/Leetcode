@@ -1,5 +1,6 @@
 class Solution {
 public:
+//using Kedans Algorithim
     int maxSubArray(vector<int>& nums) {
         long long sum=0;
         long long maxi=LONG_MIN;
