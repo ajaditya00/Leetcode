@@ -52,4 +52,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ajaditya00/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ajaditya00/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
