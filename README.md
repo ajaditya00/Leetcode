@@ -40,4 +40,16 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ajaditya00/Leetcode/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
