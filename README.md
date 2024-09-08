@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajaditya00/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ajaditya00/Leetcode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ajaditya00/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ajaditya00/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
