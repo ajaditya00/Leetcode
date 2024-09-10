@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-         if (nums.size() < 2) {
+         if (nums.size() <1) {
             return true;
         }
         int n = nums.size() - 1;
