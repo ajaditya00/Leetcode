@@ -29,6 +29,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajaditya00/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ajaditya00/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ajaditya00/Leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajaditya00/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ajaditya00/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajaditya00/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajaditya00/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ajaditya00/Leetcode/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ajaditya00/Leetcode/tree/master/0055-jump-game) |
 | [0213-house-robber-ii](https://github.com/ajaditya00/Leetcode/tree/master/0213-house-robber-ii) |
 ## Matrix
 |  |
