@@ -9,11 +9,13 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ajaditya00/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ajaditya00/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0020-valid-parentheses](https://github.com/ajaditya00/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajaditya00/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ajaditya00/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajaditya00/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ajaditya00/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
