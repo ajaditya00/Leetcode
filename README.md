@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajaditya00/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajaditya00/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ajaditya00/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ajaditya00/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -13,6 +14,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajaditya00/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ajaditya00/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -70,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajaditya00/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/ajaditya00/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
 ## Simulation
