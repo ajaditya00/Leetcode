@@ -58,6 +58,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajaditya00/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ajaditya00/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ajaditya00/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajaditya00/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajaditya00/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ajaditya00/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajaditya00/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ajaditya00/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Sliding Window
 |  |
 | ------- |
