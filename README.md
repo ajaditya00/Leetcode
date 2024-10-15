@@ -100,6 +100,7 @@
 | [0189-rotate-array](https://github.com/ajaditya00/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ajaditya00/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ajaditya00/Leetcode/tree/master/0263-ugly-number) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaditya00/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
