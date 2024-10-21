@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajaditya00/Leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/ajaditya00/Leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/ajaditya00/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ajaditya00/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
@@ -180,6 +181,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ajaditya00/Leetcode/tree/master/0029-divide-two-integers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
