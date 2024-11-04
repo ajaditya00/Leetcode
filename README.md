@@ -10,6 +10,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ajaditya00/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ajaditya00/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ajaditya00/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/ajaditya00/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ajaditya00/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -30,6 +31,7 @@
 | [0042-trapping-rain-water](https://github.com/ajaditya00/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ajaditya00/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajaditya00/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/ajaditya00/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ajaditya00/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajaditya00/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ajaditya00/Leetcode/tree/master/0189-rotate-array) |
