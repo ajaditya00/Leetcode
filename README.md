@@ -13,6 +13,7 @@
 | [0086-partition-list](https://github.com/ajaditya00/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ajaditya00/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0860-design-circular-queue](https://github.com/ajaditya00/Leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -70,6 +71,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ajaditya00/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0860-design-circular-queue](https://github.com/ajaditya00/Leetcode/tree/master/0860-design-circular-queue) |
 | [1127-last-stone-weight](https://github.com/ajaditya00/Leetcode/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ajaditya00/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajaditya00/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -236,4 +238,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ajaditya00/Leetcode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/ajaditya00/Leetcode/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/ajaditya00/Leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
