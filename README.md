@@ -157,6 +157,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/ajaditya00/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2825-minimize-string-length](https://github.com/ajaditya00/Leetcode/tree/master/2825-minimize-string-length) |
 | [3195-separate-black-and-white-balls](https://github.com/ajaditya00/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3636-check-balanced-string](https://github.com/ajaditya00/Leetcode/tree/master/3636-check-balanced-string) |
 ## Trie
 |  |
 | ------- |
