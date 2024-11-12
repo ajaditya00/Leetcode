@@ -133,6 +133,7 @@
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ajaditya00/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/ajaditya00/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1585-the-kth-factor-of-n](https://github.com/ajaditya00/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaditya00/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
@@ -146,6 +147,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/ajaditya00/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
+| [1585-the-kth-factor-of-n](https://github.com/ajaditya00/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## String
 |  |
 | ------- |
