@@ -88,6 +88,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajaditya00/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ajaditya00/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ajaditya00/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajaditya00/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ajaditya00/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -219,6 +220,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajaditya00/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajaditya00/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajaditya00/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2825-minimize-string-length](https://github.com/ajaditya00/Leetcode/tree/master/2825-minimize-string-length) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ajaditya00/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ajaditya00/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajaditya00/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
