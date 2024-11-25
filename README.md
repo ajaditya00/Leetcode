@@ -78,6 +78,7 @@
 | [0503-next-greater-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/ajaditya00/Leetcode/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/ajaditya00/Leetcode/tree/master/0860-design-circular-queue) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/ajaditya00/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1127-last-stone-weight](https://github.com/ajaditya00/Leetcode/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ajaditya00/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1503-reducing-dishes](https://github.com/ajaditya00/Leetcode/tree/master/1503-reducing-dishes) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/ajaditya00/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ajaditya00/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajaditya00/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ajaditya00/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
