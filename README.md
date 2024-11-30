@@ -97,6 +97,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/ajaditya00/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ajaditya00/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ajaditya00/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ajaditya00/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajaditya00/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -143,6 +144,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajaditya00/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ajaditya00/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ajaditya00/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ajaditya00/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/ajaditya00/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -171,6 +173,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajaditya00/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ajaditya00/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ajaditya00/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ajaditya00/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/ajaditya00/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Number Theory
 |  |
@@ -242,6 +245,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ajaditya00/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ajaditya00/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ajaditya00/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajaditya00/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2825-minimize-string-length](https://github.com/ajaditya00/Leetcode/tree/master/2825-minimize-string-length) |
