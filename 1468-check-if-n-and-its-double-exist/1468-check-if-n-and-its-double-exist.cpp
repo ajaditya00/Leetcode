@@ -4,8 +4,8 @@ public:
         int n=arr.size();
         sort(arr.begin(),arr.end());
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(arr[i]==2*arr[j] || arr[j]==2*arr[i]){
+            for(int j=0;j<n;j++){
+                if(arr[i]==2*arr[j] && i!=j  ){
                     return true;
                 }
             }
