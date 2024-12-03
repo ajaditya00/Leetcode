@@ -315,4 +315,20 @@
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ajaditya00/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
