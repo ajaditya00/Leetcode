@@ -193,6 +193,7 @@
 | [0020-valid-parentheses](https://github.com/ajaditya00/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ajaditya00/Leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/ajaditya00/Leetcode/tree/master/0071-simplify-path) |
+| [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajaditya00/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ajaditya00/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ajaditya00/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -320,11 +321,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -335,4 +338,9 @@
 | ------- |
 | [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
