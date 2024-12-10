@@ -236,6 +236,7 @@
 | [0020-valid-parentheses](https://github.com/ajaditya00/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajaditya00/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ajaditya00/Leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ajaditya00/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -327,6 +328,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ajaditya00/Leetcode/tree/master/0112-path-sum) |
@@ -336,6 +338,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ajaditya00/Leetcode/tree/master/0112-path-sum) |
@@ -351,6 +354,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ajaditya00/Leetcode/tree/master/0112-path-sum) |
