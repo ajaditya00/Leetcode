@@ -236,6 +236,7 @@
 | [0020-valid-parentheses](https://github.com/ajaditya00/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ajaditya00/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ajaditya00/Leetcode/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ajaditya00/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ajaditya00/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -329,6 +330,7 @@
 | [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ajaditya00/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
@@ -337,6 +339,7 @@
 | [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ajaditya00/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
@@ -351,6 +354,7 @@
 | [0100-same-tree](https://github.com/ajaditya00/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ajaditya00/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
