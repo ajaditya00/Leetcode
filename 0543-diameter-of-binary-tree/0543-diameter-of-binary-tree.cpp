@@ -1,23 +1,20 @@
 class Solution {
 public:
-    int level(TreeNode* root){
-        if(root==NULL)return NULL;
-        return 1+max(level(root->left),level(root->right));
-    }
-    void helper(TreeNode* root,int &n){
-        if(root==NULL)return;
-        int d=level(root->left)+level(root->right);
-        n=max(n,d);
-        helper(root->left,n);
-        helper(root->right,n);
-    }
-    int diameter(TreeNode* root){
-        int m=0;
-        helper(root,m);
-        return m;
+    int depth(TreeNode* root, int& len) {
+        if (!root) {
+            return 0;
+        }
+        int l = depth(root->left, len);
+        int r = depth(root->right, len);
+        len = max(len, l + r);
+        return 1 + max(l, r);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        return diameter(root);
-        
+        int len = 0;
+        if (!root) {
+            return 0;
+        }
+        depth(root, len);
+        return len;
     }
 };
