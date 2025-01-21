@@ -1,29 +1,28 @@
 class Solution {
 public:
-    int level(TreeNode* root){
-        if(root==NULL) return 0;;
-        return 1+ max(level(root->left),level(root->right));
-    }
-    void NthLevel(TreeNode* root,int curr,int n,vector<int>&v){
-        if(root==NULL) return;
-        if(curr==n){
-            v.push_back(root->val);
-        }
-        NthLevel(root->left,curr+1,n,v);
-        NthLevel(root->right,curr+1,n,v);
-    }
-    void Lorder(TreeNode* root,vector<vector<int>>&ans){
-        int n=level(root);
-        for(int i=1;i<=n;i++){
-            vector<int>v;
-            NthLevel(root,1,i,v);
-            ans.push_back(v);
-            cout<<endl;
-        }
-    }
     vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>>ans;
-        Lorder(root,ans);
-        return ans;
+        vector<vector<int>> result;
+        if (root == NULL) return result;
+        
+        queue<TreeNode*> q;
+        q.push(root);
+        
+        while (!q.empty()) {
+            int size = q.size();
+            vector<int> level;
+            
+            for (int i = 0; i < size; i++) {
+                TreeNode* node = q.front();
+                q.pop();
+                
+                level.push_back(node->val);
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
+            }
+            
+            result.push_back(level);
+        }
+        
+        return result;
     }
 };
