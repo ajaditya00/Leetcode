@@ -75,6 +75,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ajaditya00/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ajaditya00/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ajaditya00/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajaditya00/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -122,6 +123,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ajaditya00/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ajaditya00/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajaditya00/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajaditya00/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ajaditya00/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajaditya00/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ajaditya00/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajaditya00/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajaditya00/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/ajaditya00/Leetcode/tree/master/1503-reducing-dishes) |
@@ -173,6 +176,7 @@
 | [0204-count-primes](https://github.com/ajaditya00/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ajaditya00/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ajaditya00/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ajaditya00/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/ajaditya00/Leetcode/tree/master/1585-the-kth-factor-of-n) |
@@ -262,6 +266,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ajaditya00/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajaditya00/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ajaditya00/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -299,6 +304,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/ajaditya00/Leetcode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/ajaditya00/Leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
