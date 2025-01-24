@@ -153,6 +153,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ajaditya00/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ajaditya00/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajaditya00/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajaditya00/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -211,6 +212,7 @@
 | [0020-valid-parentheses](https://github.com/ajaditya00/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ajaditya00/Leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/ajaditya00/Leetcode/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/ajaditya00/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajaditya00/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ajaditya00/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -266,6 +268,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ajaditya00/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ajaditya00/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajaditya00/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
