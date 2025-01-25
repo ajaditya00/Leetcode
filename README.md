@@ -61,6 +61,7 @@
 | [0045-jump-game-ii](https://github.com/ajaditya00/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ajaditya00/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ajaditya00/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ajaditya00/Leetcode/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajaditya00/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ajaditya00/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/ajaditya00/Leetcode/tree/master/0134-gas-station) |
@@ -152,6 +153,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ajaditya00/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ajaditya00/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajaditya00/Leetcode/tree/master/0242-valid-anagram) |
