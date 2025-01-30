@@ -120,6 +120,7 @@
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/ajaditya00/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaditya00/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3651-transformed-array](https://github.com/ajaditya00/Leetcode/tree/master/3651-transformed-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ajaditya00/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 | [2383-add-two-integers](https://github.com/ajaditya00/Leetcode/tree/master/2383-add-two-integers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ajaditya00/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaditya00/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ajaditya00/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -355,6 +357,7 @@
 | [1833-find-the-highest-altitude](https://github.com/ajaditya00/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajaditya00/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/ajaditya00/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ajaditya00/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Enumeration
 |  |
 | ------- |
