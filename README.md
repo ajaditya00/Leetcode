@@ -104,6 +104,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ajaditya00/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/ajaditya00/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/ajaditya00/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaditya00/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajaditya00/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ajaditya00/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
