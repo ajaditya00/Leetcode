@@ -249,6 +249,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/ajaditya00/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/ajaditya00/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaditya00/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ajaditya00/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ajaditya00/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/ajaditya00/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -313,6 +314,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ajaditya00/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ajaditya00/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaditya00/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ajaditya00/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ajaditya00/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -355,6 +357,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ajaditya00/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ajaditya00/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaditya00/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ajaditya00/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ajaditya00/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
