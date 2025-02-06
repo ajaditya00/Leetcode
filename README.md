@@ -97,6 +97,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/ajaditya00/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1127-last-stone-weight](https://github.com/ajaditya00/Leetcode/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ajaditya00/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1364-tuple-with-same-product](https://github.com/ajaditya00/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajaditya00/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/ajaditya00/Leetcode/tree/master/1503-reducing-dishes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajaditya00/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -318,6 +319,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ajaditya00/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajaditya00/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ajaditya00/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1364-tuple-with-same-product](https://github.com/ajaditya00/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajaditya00/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajaditya00/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ajaditya00/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -365,6 +367,7 @@
 | [0169-majority-element](https://github.com/ajaditya00/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajaditya00/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1364-tuple-with-same-product](https://github.com/ajaditya00/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ajaditya00/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ajaditya00/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
