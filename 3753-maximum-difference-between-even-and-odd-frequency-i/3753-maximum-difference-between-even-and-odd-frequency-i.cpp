@@ -6,17 +6,17 @@ public:
             mp[ele]++;
         }
 
-        int even = 0, odd = 0;
+        int even = INT_MAX, odd = INT_MIN;
         for (auto x : mp) {
             int freq = x.second;
-            if (freq % 2 == 0) {
-                even = max(even, freq);
-            } else {
-                odd = max(odd, freq);
-            }
-        }
-        int ans=odd-even;
 
-        return (ans>-1)?ans:-1;
+            if (freq % 2 == 1) {
+                odd = max(odd, freq);
+            } else {
+                even = min(even, freq);
+            }
+            
+        }
+        return odd-even;
     }
 };
