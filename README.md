@@ -124,6 +124,7 @@
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ajaditya00/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ajaditya00/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ajaditya00/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2448-count-number-of-bad-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ajaditya00/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajaditya00/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -227,6 +228,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/ajaditya00/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2383-add-two-integers](https://github.com/ajaditya00/Leetcode/tree/master/2383-add-two-integers) |
+| [2448-count-number-of-bad-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ajaditya00/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaditya00/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ajaditya00/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -343,6 +345,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/ajaditya00/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ajaditya00/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ajaditya00/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2448-count-number-of-bad-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ajaditya00/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ajaditya00/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -388,6 +391,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaditya00/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ajaditya00/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ajaditya00/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ajaditya00/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ajaditya00/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
