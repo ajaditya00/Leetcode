@@ -133,6 +133,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/ajaditya00/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3429-special-array-i](https://github.com/ajaditya00/Leetcode/tree/master/3429-special-array-i) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/ajaditya00/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaditya00/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3651-transformed-array](https://github.com/ajaditya00/Leetcode/tree/master/3651-transformed-array) |
