@@ -249,6 +249,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/ajaditya00/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ajaditya00/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3447-clear-digits](https://github.com/ajaditya00/Leetcode/tree/master/3447-clear-digits) |
 | [3651-transformed-array](https://github.com/ajaditya00/Leetcode/tree/master/3651-transformed-array) |
 ## Number Theory
 |  |
@@ -280,6 +281,7 @@
 | [2825-minimize-string-length](https://github.com/ajaditya00/Leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/ajaditya00/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3447-clear-digits](https://github.com/ajaditya00/Leetcode/tree/master/3447-clear-digits) |
 | [3636-check-balanced-string](https://github.com/ajaditya00/Leetcode/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ajaditya00/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
@@ -320,6 +322,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ajaditya00/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/ajaditya00/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3447-clear-digits](https://github.com/ajaditya00/Leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
