@@ -65,6 +65,7 @@
 | [0048-rotate-image](https://github.com/ajaditya00/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ajaditya00/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ajaditya00/Leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/ajaditya00/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajaditya00/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ajaditya00/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/ajaditya00/Leetcode/tree/master/0134-gas-station) |
@@ -304,6 +305,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ajaditya00/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/ajaditya00/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ajaditya00/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ajaditya00/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
@@ -327,6 +329,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ajaditya00/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ajaditya00/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ajaditya00/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ajaditya00/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
