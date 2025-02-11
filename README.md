@@ -100,6 +100,7 @@
 | [0724-find-pivot-index](https://github.com/ajaditya00/Leetcode/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/ajaditya00/Leetcode/tree/master/0860-design-circular-queue) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ajaditya00/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/ajaditya00/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1127-last-stone-weight](https://github.com/ajaditya00/Leetcode/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ajaditya00/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -168,6 +169,7 @@
 | [0169-majority-element](https://github.com/ajaditya00/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/ajaditya00/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ajaditya00/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/ajaditya00/Leetcode/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/ajaditya00/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajaditya00/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/ajaditya00/Leetcode/tree/master/1503-reducing-dishes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ajaditya00/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -227,6 +230,7 @@
 | [0263-ugly-number](https://github.com/ajaditya00/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ajaditya00/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ajaditya00/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/ajaditya00/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1806-count-of-matches-in-tournament](https://github.com/ajaditya00/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -380,6 +384,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ajaditya00/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ajaditya00/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ajaditya00/Leetcode/tree/master/1127-last-stone-weight) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ajaditya00/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bit Manipulation
@@ -507,4 +512,9 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/ajaditya00/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
