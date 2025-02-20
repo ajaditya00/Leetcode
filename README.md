@@ -123,6 +123,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/ajaditya00/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaditya00/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajaditya00/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2107-find-unique-binary-string](https://github.com/ajaditya00/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ajaditya00/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ajaditya00/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ajaditya00/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -295,6 +296,7 @@
 | [1894-merge-strings-alternately](https://github.com/ajaditya00/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaditya00/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ajaditya00/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/ajaditya00/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ajaditya00/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ajaditya00/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ajaditya00/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -373,6 +375,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaditya00/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2107-find-unique-binary-string](https://github.com/ajaditya00/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ajaditya00/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ajaditya00/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ajaditya00/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -530,6 +533,7 @@
 | [1160-letter-tile-possibilities](https://github.com/ajaditya00/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ajaditya00/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ajaditya00/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/ajaditya00/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ajaditya00/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ajaditya00/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Combinatorics
