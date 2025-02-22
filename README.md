@@ -285,6 +285,7 @@
 | [0242-valid-anagram](https://github.com/ajaditya00/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajaditya00/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ajaditya00/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ajaditya00/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/ajaditya00/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -489,6 +490,7 @@
 | [0226-invert-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -502,6 +504,7 @@
 | [0226-invert-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -526,6 +529,7 @@
 | [0226-invert-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
