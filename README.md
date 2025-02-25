@@ -100,6 +100,7 @@
 | [0658-find-k-closest-elements](https://github.com/ajaditya00/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ajaditya00/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/ajaditya00/Leetcode/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/ajaditya00/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0860-design-circular-queue](https://github.com/ajaditya00/Leetcode/tree/master/0860-design-circular-queue) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ajaditya00/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -327,6 +328,7 @@
 | [0198-house-robber](https://github.com/ajaditya00/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ajaditya00/Leetcode/tree/master/0213-house-robber-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ajaditya00/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0747-min-cost-climbing-stairs](https://github.com/ajaditya00/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1013-fibonacci-number) |
 | [1503-reducing-dishes](https://github.com/ajaditya00/Leetcode/tree/master/1503-reducing-dishes) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
