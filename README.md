@@ -235,6 +235,7 @@
 | [0029-divide-two-integers](https://github.com/ajaditya00/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ajaditya00/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ajaditya00/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/ajaditya00/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ajaditya00/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ajaditya00/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
@@ -322,6 +323,7 @@
 | [0045-jump-game-ii](https://github.com/ajaditya00/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ajaditya00/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ajaditya00/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/ajaditya00/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ajaditya00/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ajaditya00/Leetcode/tree/master/0213-house-robber-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ajaditya00/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -573,5 +575,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ajaditya00/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
