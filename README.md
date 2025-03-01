@@ -253,6 +253,7 @@
 | [1013-fibonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ajaditya00/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ajaditya00/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/ajaditya00/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ajaditya00/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -343,6 +344,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ajaditya00/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/ajaditya00/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1503-reducing-dishes](https://github.com/ajaditya00/Leetcode/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ajaditya00/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ajaditya00/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -598,6 +600,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ajaditya00/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Union Find
 |  |
 | ------- |
