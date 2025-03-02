@@ -67,6 +67,7 @@
 | [0042-trapping-rain-water](https://github.com/ajaditya00/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ajaditya00/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ajaditya00/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ajaditya00/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ajaditya00/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ajaditya00/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ajaditya00/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -270,6 +271,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ajaditya00/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/ajaditya00/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ajaditya00/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -355,6 +357,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ajaditya00/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ajaditya00/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ajaditya00/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ajaditya00/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ajaditya00/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
