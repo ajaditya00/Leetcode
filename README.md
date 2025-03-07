@@ -95,6 +95,7 @@
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ajaditya00/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/ajaditya00/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ajaditya00/Leetcode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/ajaditya00/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajaditya00/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -223,6 +224,7 @@
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajaditya00/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/ajaditya00/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/ajaditya00/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/ajaditya00/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajaditya00/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -628,4 +630,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ajaditya00/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ajaditya00/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
