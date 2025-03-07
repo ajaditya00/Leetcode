@@ -43,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/ajaditya00/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ajaditya00/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajaditya00/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ajaditya00/Leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ajaditya00/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajaditya00/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -318,6 +319,7 @@
 | [0071-simplify-path](https://github.com/ajaditya00/Leetcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/ajaditya00/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/ajaditya00/Leetcode/tree/master/0392-is-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajaditya00/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ajaditya00/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -360,6 +362,7 @@
 | [0152-maximum-product-subarray](https://github.com/ajaditya00/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ajaditya00/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ajaditya00/Leetcode/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/ajaditya00/Leetcode/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ajaditya00/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/ajaditya00/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ajaditya00/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
