@@ -169,6 +169,7 @@
 | [3483-alternating-groups-ii](https://github.com/ajaditya00/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/ajaditya00/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaditya00/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/ajaditya00/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/ajaditya00/Leetcode/tree/master/3651-transformed-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ajaditya00/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Binary Search
@@ -193,6 +194,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajaditya00/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ajaditya00/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3643-zero-array-transformation-ii](https://github.com/ajaditya00/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -521,6 +523,7 @@
 | [1833-find-the-highest-altitude](https://github.com/ajaditya00/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajaditya00/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/ajaditya00/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3643-zero-array-transformation-ii](https://github.com/ajaditya00/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ajaditya00/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Enumeration
 |  |
