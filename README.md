@@ -174,6 +174,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaditya00/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/ajaditya00/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/ajaditya00/Leetcode/tree/master/3651-transformed-array) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ajaditya00/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ajaditya00/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
@@ -256,6 +257,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ajaditya00/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/ajaditya00/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ajaditya00/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
 | ------- |
