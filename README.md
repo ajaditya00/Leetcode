@@ -165,6 +165,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ajaditya00/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/ajaditya00/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ajaditya00/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ajaditya00/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -224,6 +225,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/ajaditya00/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ajaditya00/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ajaditya00/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/ajaditya00/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/ajaditya00/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Sorting
@@ -261,6 +263,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ajaditya00/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ajaditya00/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/ajaditya00/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ajaditya00/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
@@ -295,6 +298,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/ajaditya00/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ajaditya00/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ajaditya00/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/ajaditya00/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaditya00/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ajaditya00/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -326,6 +330,7 @@
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/ajaditya00/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ajaditya00/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
 |  |
 | ------- |
@@ -421,6 +426,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/ajaditya00/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ajaditya00/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/ajaditya00/Leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -477,6 +483,7 @@
 | [0503-next-greater-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ajaditya00/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
