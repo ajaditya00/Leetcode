@@ -147,6 +147,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ajaditya00/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ajaditya00/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ajaditya00/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2262-solving-questions-with-brainpower](https://github.com/ajaditya00/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ajaditya00/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ajaditya00/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ajaditya00/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -398,6 +399,7 @@
 | [1503-reducing-dishes](https://github.com/ajaditya00/Leetcode/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ajaditya00/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ajaditya00/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/ajaditya00/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
