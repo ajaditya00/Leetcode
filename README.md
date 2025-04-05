@@ -140,6 +140,7 @@
 | [1925-count-nice-pairs-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ajaditya00/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/ajaditya00/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ajaditya00/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajaditya00/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2107-find-unique-binary-string](https://github.com/ajaditya00/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ajaditya00/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -296,6 +297,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/ajaditya00/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ajaditya00/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ajaditya00/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ajaditya00/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/ajaditya00/Leetcode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -513,6 +515,7 @@
 | [0137-single-number-ii](https://github.com/ajaditya00/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ajaditya00/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ajaditya00/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajaditya00/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -565,6 +568,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ajaditya00/Leetcode/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ajaditya00/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ajaditya00/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Design
 |  |
@@ -650,6 +654,7 @@
 | [1160-letter-tile-possibilities](https://github.com/ajaditya00/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ajaditya00/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ajaditya00/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ajaditya00/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/ajaditya00/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ajaditya00/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ajaditya00/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -657,6 +662,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ajaditya00/Leetcode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ajaditya00/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Quickselect
 |  |
 | ------- |
