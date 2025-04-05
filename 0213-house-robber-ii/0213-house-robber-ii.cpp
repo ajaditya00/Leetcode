@@ -1,24 +1,19 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int st, int end) {
-
-        int pre = 0, curr = 0;
-
-        for(int i=st; i<=end; i++) {
-            int temp = max(pre + nums[i], curr);
-            pre = curr;
-            curr = temp;
-        } 
-         
-        return curr; 
+    int helper(vector<int>&nums,int idx,int end,vector<int>&dp){
+        if(idx>end) return 0;
+        if(dp[idx]!=-1) return dp[idx];
+        int take=nums[idx]+helper(nums,idx+2,end,dp);
+        int skip=helper(nums,idx+1,end,dp);
+        return dp[idx]= max(take,skip);
     }
-
     int rob(vector<int>& nums) {
-        
-        int n = nums.size();
-
-        if(n < 2) return n ? nums[0] : 0;
-
-        return max(solve(nums, 0, n-2), solve(nums, 1, n-1));
+        int n=nums.size();
+        if(n==1) return nums[0];
+        vector<int>dp1(n,-1);
+        vector<int>dp2(n,-1);
+        int a=helper(nums,0,n-2,dp1);
+        int b=helper(nums,1,n-1,dp2);
+        return max(a,b);
     }
 };
