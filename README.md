@@ -291,6 +291,7 @@
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ajaditya00/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ajaditya00/Leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/ajaditya00/Leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/ajaditya00/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/ajaditya00/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1013-fibonacci-number) |
@@ -400,6 +401,7 @@
 | [0152-maximum-product-subarray](https://github.com/ajaditya00/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ajaditya00/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ajaditya00/Leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/ajaditya00/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ajaditya00/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/ajaditya00/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ajaditya00/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -640,6 +642,7 @@
 | [0112-path-sum](https://github.com/ajaditya00/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ajaditya00/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ajaditya00/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/ajaditya00/Leetcode/tree/master/0279-perfect-squares) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ajaditya00/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ajaditya00/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ajaditya00/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
