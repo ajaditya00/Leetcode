@@ -1,18 +1,20 @@
-    class Solution {
-    public:
-        int helper(int m,int n,int i,int j,vector<vector<int>>& arr,vector<vector<int>>&dp){
-            if(i>=m || j>=n) return 0;
-            if(arr[i][j]==1) return 0;
-            if(i == m-1 && j == n-1) return 1;
-            if(dp[i][j] != -1) return dp[i][j];
-            int s1=helper(m,n,i+1,j,arr,dp);
-            int s2=helper(m,n,i,j+1,arr,dp);
-            return dp[i][j]=s1+s2;
+class Solution {
+public:
+    int uniquePathsWithObstacles(vector<vector<int>>& arr) {
+        int m=arr.size(),n=arr[0].size();
+        vector<vector<int>>dp(m,vector<int>(n,0));
+        int cnt=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(arr[i][j]==1) dp[i][j]=0;
+                else if(i==0 && j==0)dp[i][j]=1;
+                else{
+                    int up=i>0 ?dp[i-1][j]:0;
+                    int down=j>0 ? dp[i][j-1]:0;
+                    dp[i][j]=up+down;
+                }
+            }
         }
-        int uniquePathsWithObstacles(vector<vector<int>>& arr) {
-            int m=arr.size() ,n=arr[0].size();
-            if(arr[0][0] == 1 || arr[m-1][n-1] == 1) return 0;
-            vector<vector<int>>dp(m,vector<int>(n,-1));
-            return helper(m,n,0,0,arr,dp);
-        }
-    };
+        return dp[m-1][n-1];
+    }
+};
