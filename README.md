@@ -315,6 +315,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ajaditya00/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/ajaditya00/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ajaditya00/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ajaditya00/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ajaditya00/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
@@ -380,6 +381,7 @@
 | [2825-minimize-string-length](https://github.com/ajaditya00/Leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/ajaditya00/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ajaditya00/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/ajaditya00/Leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ajaditya00/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3636-check-balanced-string](https://github.com/ajaditya00/Leetcode/tree/master/3636-check-balanced-string) |
@@ -418,6 +420,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ajaditya00/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/ajaditya00/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ajaditya00/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Matrix
 |  |
 | ------- |
