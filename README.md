@@ -177,6 +177,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ajaditya00/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ajaditya00/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ajaditya00/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ajaditya00/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ajaditya00/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -428,6 +429,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ajaditya00/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/ajaditya00/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ajaditya00/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ajaditya00/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Matrix
 |  |
