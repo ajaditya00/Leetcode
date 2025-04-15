@@ -161,6 +161,7 @@
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ajaditya00/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ajaditya00/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ajaditya00/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ajaditya00/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -214,6 +215,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajaditya00/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ajaditya00/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ajaditya00/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ajaditya00/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ajaditya00/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -227,6 +229,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/ajaditya00/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -742,4 +745,20 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ajaditya00/Leetcode/tree/master/0274-h-index) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
