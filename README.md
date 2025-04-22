@@ -325,6 +325,7 @@
 | [2050-count-good-numbers](https://github.com/ajaditya00/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ajaditya00/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/ajaditya00/Leetcode/tree/master/2383-add-two-integers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ajaditya00/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ajaditya00/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ajaditya00/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -364,6 +365,7 @@
 | [0204-count-primes](https://github.com/ajaditya00/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ajaditya00/Leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/ajaditya00/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ajaditya00/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ajaditya00/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
@@ -439,6 +441,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ajaditya00/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ajaditya00/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/ajaditya00/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ajaditya00/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/ajaditya00/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ajaditya00/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -716,6 +719,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/ajaditya00/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ajaditya00/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ajaditya00/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/ajaditya00/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Quickselect
 |  |
