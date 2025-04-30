@@ -129,6 +129,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ajaditya00/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1364-tuple-with-same-product](https://github.com/ajaditya00/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ajaditya00/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ajaditya00/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajaditya00/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ajaditya00/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1503-reducing-dishes](https://github.com/ajaditya00/Leetcode/tree/master/1503-reducing-dishes) |
@@ -320,6 +321,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/ajaditya00/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ajaditya00/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ajaditya00/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ajaditya00/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/ajaditya00/Leetcode/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/ajaditya00/Leetcode/tree/master/1585-the-kth-factor-of-n) |
