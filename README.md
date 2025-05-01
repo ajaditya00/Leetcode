@@ -401,6 +401,7 @@
 | [1894-merge-strings-alternately](https://github.com/ajaditya00/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaditya00/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ajaditya00/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ajaditya00/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/ajaditya00/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ajaditya00/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ajaditya00/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -519,6 +520,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaditya00/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ajaditya00/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/ajaditya00/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ajaditya00/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2122-count-special-quadruplets](https://github.com/ajaditya00/Leetcode/tree/master/2122-count-special-quadruplets) |
@@ -591,6 +593,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/ajaditya00/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ajaditya00/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/ajaditya00/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ajaditya00/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/ajaditya00/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ajaditya00/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
