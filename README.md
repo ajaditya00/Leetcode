@@ -47,6 +47,7 @@
 | [0392-is-subsequence](https://github.com/ajaditya00/Leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ajaditya00/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/ajaditya00/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/ajaditya00/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/ajaditya00/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ajaditya00/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ajaditya00/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -389,6 +390,7 @@
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/ajaditya00/Leetcode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/ajaditya00/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/ajaditya00/Leetcode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ajaditya00/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ajaditya00/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ajaditya00/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -443,6 +445,7 @@
 | [0494-target-sum](https://github.com/ajaditya00/Leetcode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ajaditya00/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/ajaditya00/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/ajaditya00/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ajaditya00/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/ajaditya00/Leetcode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/ajaditya00/Leetcode/tree/master/1170-shortest-common-supersequence) |
