@@ -386,6 +386,7 @@
 | [0020-valid-parentheses](https://github.com/ajaditya00/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ajaditya00/Leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/ajaditya00/Leetcode/tree/master/0071-simplify-path) |
+| [0205-isomorphic-strings](https://github.com/ajaditya00/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ajaditya00/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ajaditya00/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/ajaditya00/Leetcode/tree/master/0392-is-subsequence) |
@@ -501,6 +502,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ajaditya00/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ajaditya00/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ajaditya00/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ajaditya00/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ajaditya00/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ajaditya00/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ajaditya00/Leetcode/tree/master/0242-valid-anagram) |
