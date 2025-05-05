@@ -1,30 +1,23 @@
-class Solution {
+class Solution{ 
 public:
-    bool isValid(string s) {
-        if (s.length() % 2 != 0)
-            return false;
+bool isMatchingPair(char open, char close) {
+    return (open == '(' && close == ')') ||
+           (open == '{' && close == '}') ||
+           (open == '[' && close == ']');
+}
 
-        stack<char> st;
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] == '(' || s[i] == '{' || s[i] == '[') {
-                st.push(s[i]);
-            } 
-            else {
-                if (st.empty()) {
-                    return false;
-                }
-
-                char top = st.top();
-                if ((s[i] == ')' && top == '(') ||
-                    (s[i] == '}' && top == '{') ||
-                    (s[i] == ']' && top == '[')) {
-                    st.pop();
-                } else {
-                    return false;
-                }
+bool isValid(const string& expr) {
+    stack<char> stk;
+    for (char ch : expr) {
+        if (ch == '(' || ch == '{' || ch == '[') {
+            stk.push(ch);
+        } else if (ch == ')' || ch == '}' || ch == ']') {
+            if (stk.empty() || !isMatchingPair(stk.top(), ch)) {
+                return false;
             }
+            stk.pop();
         }
-
-        return st.empty();
     }
+    return stk.empty() ? true : false;
+}
 };
