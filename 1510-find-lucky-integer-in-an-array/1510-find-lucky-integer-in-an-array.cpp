@@ -2,7 +2,6 @@ class Solution {
 public:
     int findLucky(vector<int>& arr) {
         int n=arr.size();
-        sort(arr.begin(),arr.end());
         unordered_map<int,int>mp;
         for(auto id:arr){
             mp[id]++;
